@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Новая папка (12)\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (12)\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\student\Desktop\Новая папка (12)\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\Новая папка (12)\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\student\Desktop\Новая папка (12)\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
